@@ -1,9 +1,3 @@
-;; Hetal Patel
-;; RUID: 171004327
-;; Section 4
-;; Assignment 4 - Scheme
-
-
 ;; 1.  a b c --> a a b b c c
 ;;     a (b c) --> a a (b c) (b c)
 
